@@ -98,16 +98,16 @@ timeline
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ravig132&show_icons=true&include_all_commits=true&title_color=38BDF8&icon_color=00E676&text_color=CCCCCC&border_color=FF2E63&bg_color=0D1117" alt="Ravi's GitHub Stats" width="48%" />
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ravig132&layout=compact&title_color=FF2E63&text_color=CCCCCC&border_color=38BDF8&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <!-- Sky Blue Title, Parrot Green Icons, Pink-Red Border Accent -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ravig132&show_icons=true&title_color=38BDF8&icon_color=00E676&text_color=CCCCCC&border_color=FF2E63&bg_color=0D1117" alt="Ravi's GitHub Stats" width="48%" />
+  <!-- Pink-Red Title, Sky Blue Border Accent -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravig132&layout=compact&title_color=FF2E63&text_color=CCCCCC&border_color=38BDF8&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- GitHub Streak Card -->
+  <!-- GitHub Streak Card with Corrected High-Contrast Palette: Fire (Pink-Red #FF2E63), Ring & Current Streak (Parrot Green #00E676), Side Numbers (Sky Blue #38BDF8), Labels (Pink-Red #FF2E63) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravig132&background=0D1117&border=38BDF8&stroke=38BDF8&ring=00E676&fire=FF2E63&currStreakNum=00E676&sideNums=38BDF8&currStreakLabel=FF2E63&sideLabels=FF2E63&dates=CCCCCC" alt="GitHub Streak" width="97%" />
 </div>
 
