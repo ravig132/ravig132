@@ -13,7 +13,7 @@
   </p>
 
   <a href="https://github.com/ravig132">
-    <img src="https://img.shields.io/badge/Status-Available_for_Internships_&_AI_Automation_/_Java_Roles-00E676?style=for-the-badge&logoColor=white" alt="Status Badge" />
+    <img src="https://img.shields.io/badge/Status-Available_for_Internships_&_AI_Automation_/_Java_Roles-00E676?style=for-the-badge&logoColor=black" alt="Status Badge" />
   </a>
 </div>
 
@@ -98,17 +98,17 @@ timeline
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <!-- Sky Blue Title & Border, Parrot Green Icons, Pink-Red Accent -->
+  <!-- Sky Blue Title, Parrot Green Icons, Pink-Red Border Accent -->
   <img src="https://github-readme-stats.vercel.app/api?username=ravig132&show_icons=true&title_color=38BDF8&icon_color=00E676&text_color=CCCCCC&border_color=FF2E63&bg_color=0D1117" alt="Ravi's GitHub Stats" width="48%" />
-  <!-- Pink-Red Title, Sky Blue Border -->
+  <!-- Pink-Red Title, Sky Blue Border Accent -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravig132&layout=compact&title_color=FF2E63&text_color=CCCCCC&border_color=38BDF8&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Parrot Green Border & Ring, Pink-Red Fire & Labels, Sky Blue Streak Count -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravig132&background=0D1117&border=00E676&ring=00E676&fire=FF2E63&currStreakNum=38BDF8&sideNums=00E676&currStreakLabel=FF2E63&sideLabels=38BDF8&dates=CCCCCC" alt="GitHub Streak" width="97%" />
+  <!-- GitHub Streak Card with Corrected High-Contrast Palette: Fire (Pink-Red #FF2E63), Ring & Current Streak (Parrot Green #00E676), Side Numbers (Sky Blue #38BDF8), Labels (Pink-Red #FF2E63) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravig132&background=0D1117&border=38BDF8&stroke=38BDF8&ring=00E676&fire=FF2E63&currStreakNum=00E676&sideNums=38BDF8&currStreakLabel=FF2E63&sideLabels=FF2E63&dates=CCCCCC" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
