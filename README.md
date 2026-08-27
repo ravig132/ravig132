@@ -7,13 +7,13 @@
   </p>
 
   <p>
-    <a href="https://ravi-kumar-gangwar.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-ravi--kumar--gangwar.netlify.app-00C9FF?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://ravi-kumar-gangwar.netlify.app/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-ravi--kumar--gangwar.netlify.app-38BDF8?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/ravi-kumar-gangwar-bb891927a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:gangwarr132@gmail.com"><img src="https://img.shields.io/badge/Email-gangwarr132%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:gangwarr132@gmail.com"><img src="https://img.shields.io/badge/Email-gangwarr132%40gmail.com-FF2E63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
   <a href="https://github.com/ravig132">
-    <img src="https://img.shields.io/badge/Status-Available_for_Internships_&_AI_Automation_/_Java_Roles-28a745?style=for-the-badge" alt="Status Badge" />
+    <img src="https://img.shields.io/badge/Status-Available_for_Internships_&_AI_Automation_/_Java_Roles-00E676?style=for-the-badge&logoColor=white" alt="Status Badge" />
   </a>
 </div>
 
@@ -43,14 +43,14 @@
 ### **AI & Workflow Automation**
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-00C9FF?style=for-the-badge&logo=robot&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-38BDF8?style=for-the-badge&logo=robot&logoColor=white)
 ![Telegram API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Resume Parsing AI](https://img.shields.io/badge/Resume_Parsing_AI-FF4500?style=for-the-badge&logo=openai&logoColor=white)
+![Resume Parsing AI](https://img.shields.io/badge/Resume_Parsing_AI-FF2E63?style=for-the-badge&logo=openai&logoColor=white)
 
 ### **Database & Backend Architecture**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-![Relational DB](https://img.shields.io/badge/Relational_Schema-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Relational DB](https://img.shields.io/badge/Relational_Schema-00E676?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### **Tools & Cloud Integrations**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -98,14 +98,17 @@ timeline
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravig132&show_icons=true&theme=radial&hide_border=true&title_color=00C9FF&icon_color=00C9FF&text_color=CCCCCC&bg_color=0D1117" alt="Ravi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravig132&layout=compact&theme=radial&hide_border=true&title_color=00C9FF&text_color=CCCCCC&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <!-- Sky Blue Title & Border, Parrot Green Icons, Pink-Red Accent -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ravig132&show_icons=true&title_color=38BDF8&icon_color=00E676&text_color=CCCCCC&border_color=FF2E63&bg_color=0D1117" alt="Ravi's GitHub Stats" width="48%" />
+  <!-- Pink-Red Title, Sky Blue Border -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravig132&layout=compact&title_color=FF2E63&text_color=CCCCCC&border_color=38BDF8&bg_color=0D1117" alt="Top Languages" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravig132&theme=radial&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF&currStreakNum=00C9FF" alt="GitHub Streak" width="97%" />
+  <!-- Parrot Green Border & Ring, Pink-Red Fire & Labels, Sky Blue Streak Count -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravig132&background=0D1117&border=00E676&ring=00E676&fire=FF2E63&currStreakNum=38BDF8&sideNums=00E676&currStreakLabel=FF2E63&sideLabels=38BDF8&dates=CCCCCC" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
@@ -114,16 +117,16 @@ timeline
 
 <div align="center">
   <a href="https://ravi-kumar-gangwar.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ravi-kumar-gangwar-bb891927a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:gangwarr132@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-FF2E63?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/ravig132">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-00E676?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" />
   </a>
 </div>
 
