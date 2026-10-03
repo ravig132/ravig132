@@ -7,7 +7,6 @@
   </p>
 
   <p>
-    <a href="https://ravi-kumar-gangwar.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-ravi-kumar-gangwar.vercel.app-38BDF8?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
     <a href="https://ravi-kumar-gangwar.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-ravi--kumar--gangwar.vercel.app-38BDF8?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/ravi-kumar-gangwar-bb891927a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:gangwarr132@gmail.com"><img src="https://img.shields.io/badge/Email-gangwarr132%40gmail.com-FF2E63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
