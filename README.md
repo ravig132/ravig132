@@ -117,7 +117,7 @@ timeline
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://ravi-kumar-gangwar.netlify.app/">
+  <a href="https://ravi-kumar-gangwar.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/ravi-kumar-gangwar-bb891927a/">
